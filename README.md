@@ -114,7 +114,7 @@ A health-focused mini program with food recognition and nutrition analysis
 ## Contact
 
 - GitHub: [@JiahaoTang-Alvin](https://github.com/JiahaoTang-Alvin)
-- Email: your-email@example.com
+- Email: hdbm1006@gmail.com
 
 ---
 
