@@ -5,100 +5,125 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JiahaoTang-Alvin">
-    <img src="https://img.shields.io/badge/GitHub-JiahaoTang--Alvin-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/iOS-Swift-F05138?style=for-the-badge&logo=swift" />
-  <img src="https://img.shields.io/badge/AI-Multimodal-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product-Building-0A66C2?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=JiahaoTang-Alvin&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/JiahaoTang-Alvin?label=Followers&style=flat" />
+</p>
+
+<p align="center">
+  <a href="#chinese-version">中文</a> ·
+  <a href="#english-version">English</a>
 </p>
 
 ---
 
-## 中文介绍
+<details open>
+<summary><h2 id="chinese-version">🇨🇳 中文版本</h2></summary>
 
-你好，我是 Alvin  
-我主要关注 AI 应用、iOS 开发、产品设计与落地
+## 关于我
 
-目前我重点在做的方向包括：
+你好，我是 Alvin。
 
-- **PocketChef**  
-  一个围绕菜谱理解与生成的 AI 应用  
-  能把社交媒体中的菜谱视频解析成结构化步骤内容  
-  也在探索多智能体协作生成菜谱与多模态交互体验
+我主要关注：
 
-- **AI / 多模态应用开发**  
-  关注图像、文本、语音等多模态能力在真实产品里的结合方式  
-  更偏向“把能力做成产品”，而不是只停留在模型演示
+- AI 应用开发
+- iOS 原生开发
+- 产品设计与落地
+- 多模态与多智能体工作流
 
-- **iOS 原生开发**  
-  使用 Swift / SwiftUI 进行界面、交互和产品原型实现  
-  也在持续学习更完整的客户端工程能力
+## 我正在做的项目
+
+### PocketChef
+一个围绕菜谱理解与生成的 AI 产品。
+
+- 将社交媒体菜谱视频解析为结构化步骤
+- 从视频中提取关键画面辅助理解
+- 探索多智能体协作生成菜谱
+- 面向移动端体验设计
+
+### Health Project / Mini Program
+一个以健康饮食分析为核心的小程序项目。
+
+- 拍照识别食物
+- 输出营养信息与评分
+- 健康档案与目标管理
+- AI 能力与产品体验结合
+
+## 技术方向
+
+- Swift / SwiftUI
+- JavaScript / Node.js
+- GraphQL
+- AI / LLM / Vision / Agents
+
+## 联系方式
+
+- GitHub: [@JiahaoTang-Alvin](https://github.com/JiahaoTang-Alvin)
+- Email: [hdbm1006@gmail.com](mailto:hdbm1006@gmail.com)
+
+</details>
 
 ---
 
-## English
+<details>
+<summary><h2 id="english-version">🇺🇸 English Version</h2></summary>
+
+## About Me
 
 Hi, I'm Alvin.
 
-I focus on AI applications, iOS development, and product-driven building.
+I focus on:
 
-What I’m currently working on:
+- AI application development
+- Native iOS development
+- Product-oriented building
+- Multimodal and multi-agent workflows
 
-- **PocketChef**  
-  An AI-powered cooking product focused on recipe understanding and generation  
-  It turns social media recipe videos into structured step-by-step content  
-  I’m also exploring multi-agent workflows and multimodal interaction for recipe creation
+## What I'm Working On
 
-- **AI / Multimodal Products**  
-  Interested in combining vision, text, and voice into real user-facing products  
-  I care more about shipping useful experiences than building demos only
+### PocketChef
+An AI-powered product for recipe understanding and generation.
 
-- **Native iOS Development**  
-  Building interfaces and product prototypes with Swift and SwiftUI  
-  Continuously improving my engineering depth on the client side
+- Turn social media recipe videos into structured cooking steps
+- Extract key visual moments from videos
+- Explore multi-agent recipe generation workflows
+- Build for mobile-first product experience
 
----
+### Health Project / Mini Program
+A health-focused mini program centered on food recognition and nutrition analysis.
 
-## Tech Stack
+- Recognize food from photos
+- Provide nutrition data and scoring
+- Support health profiles and goal management
+- Combine AI capability with real product experience
 
-<p>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-LLM%20%7C%20Vision%20%7C%20Agents-7B61FF?style=flat-square" />
-</p>
+## Tech Focus
+
+- Swift / SwiftUI
+- JavaScript / Node.js
+- GraphQL
+- AI / LLM / Vision / Agents
+
+## Contact
+
+- GitHub: [@JiahaoTang-Alvin](https://github.com/JiahaoTang-Alvin)
+- Email: [hdbm1006@gmail.com](mailto:hdbm1006@gmail.com)
+
+</details>
 
 ---
 
 ## Featured Projects
 
-### PocketChef
-AI-powered recipe understanding and generation product
+<details>
+<summary><b>PocketChef</b> - AI-powered recipe understanding and generation</summary>
 
-- Parse recipe videos into structured cooking steps
-- Extract useful visual moments from video content
-- Explore multi-agent recipe generation workflows
-- Build for mobile-first user experience
+<br>
 
-### Health Project / Mini Program
-A health-focused mini program with food recognition and nutrition analysis
+An AI product focused on recipe parsing, generation, and multimodal interaction.
 
-- Photo-based food recognition
-- Nutrition and health scoring
-- Personal health profile system
-- Product-oriented AI interaction design
+[GitHub Repo](https://github.com/JiahaoTang-Alvin/PocketChef_iOS)
 
----
-
-## What I care about
-
-- Turning AI capability into usable products
-- Building polished mobile experiences
-- Combining engineering with product thinking
-- Learning fast and shipping fast
+</details>
 
 ---
 
@@ -108,18 +133,3 @@ A health-focused mini program with food recognition and nutrition analysis
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JiahaoTang-Alvin&show_icons=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoTang-Alvin&layout=compact" />
 </p>
-
----
-
-## Contact
-
-- GitHub: [@JiahaoTang-Alvin](https://github.com/JiahaoTang-Alvin)
-- Email: hdbm1006@gmail.com
-
----
-
-## Motto
-
-> Build useful things.  
-> Learn aggressively.  
-> Ship continuously.
