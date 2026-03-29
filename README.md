@@ -5,6 +5,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/JiahaoTang-Alvin">
+    <img src="https://img.shields.io/badge/GitHub-JiahaoTang--Alvin-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/iOS-Swift-F05138?style=for-the-badge&logo=swift" />
+  <img src="https://img.shields.io/badge/AI-Multimodal-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product-Building-0A66C2?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JiahaoTang-Alvin&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/JiahaoTang-Alvin?label=Followers&style=flat" />
 </p>
@@ -32,7 +41,7 @@
 
 ## 我正在做的项目
 
-### PocketChef
+### PocketChef（口袋厨神）
 一个围绕菜谱理解与生成的 AI 产品。
 
 - 将社交媒体菜谱视频解析为结构化步骤
@@ -48,12 +57,16 @@
 - 健康档案与目标管理
 - AI 能力与产品体验结合
 
-## 技术方向
+## Tech Stack
 
-- Swift / SwiftUI
-- JavaScript / Node.js
-- GraphQL
-- AI / LLM / Vision / Agents
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-LLM%20%7C%20Vision%20%7C%20Agents-7B61FF?style=flat-square" />
+</p>
 
 ## 联系方式
 
@@ -96,12 +109,16 @@ A health-focused mini program centered on food recognition and nutrition analysi
 - Support health profiles and goal management
 - Combine AI capability with real product experience
 
-## Tech Focus
+## Tech Stack
 
-- Swift / SwiftUI
-- JavaScript / Node.js
-- GraphQL
-- AI / LLM / Vision / Agents
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-LLM%20%7C%20Vision%20%7C%20Agents-7B61FF?style=flat-square" />
+</p>
 
 ## Contact
 
@@ -112,24 +129,8 @@ A health-focused mini program centered on food recognition and nutrition analysi
 
 ---
 
-## Featured Projects
+## Motto
 
-<details>
-<summary><b>PocketChef</b> - AI-powered recipe understanding and generation</summary>
-
-<br>
-
-An AI product focused on recipe parsing, generation, and multimodal interaction.
-
-[GitHub Repo](https://github.com/JiahaoTang-Alvin/PocketChef_iOS)
-
-</details>
-
----
-
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JiahaoTang-Alvin&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoTang-Alvin&layout=compact" />
-</p>
+> Build useful things.  
+> Learn aggressively.  
+> Ship continuously.
