@@ -42,6 +42,13 @@
 ## 我正在做的项目
 
 ### PocketChef（口袋厨神）
+
+<p>
+  <a href="https://pocketchef.zhiheschool.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-PocketChef-FF6B35?style=for-the-badge" />
+  </a>
+</p>
+
 一个围绕菜谱理解与生成的 AI 产品。
 
 - 将社交媒体菜谱视频解析为结构化步骤
@@ -49,7 +56,7 @@
 - 探索多智能体协作生成菜谱
 - 面向移动端体验设计
 
-### Health Project / Mini Program
+### 健康轻旅
 一个以健康饮食分析为核心的小程序项目。
 
 - 拍照识别食物
@@ -94,6 +101,13 @@ I focus on:
 ## What I'm Working On
 
 ### PocketChef
+
+<p>
+  <a href="https://pocketchef.zhiheschool.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-PocketChef-FF6B35?style=for-the-badge" />
+  </a>
+</p>
+
 An AI-powered product for recipe understanding and generation.
 
 - Turn social media recipe videos into structured cooking steps
@@ -101,7 +115,7 @@ An AI-powered product for recipe understanding and generation.
 - Explore multi-agent recipe generation workflows
 - Build for mobile-first product experience
 
-### Health Project / Mini Program
+### Health Journey
 A health-focused mini program centered on food recognition and nutrition analysis.
 
 - Recognize food from photos
